@@ -81,4 +81,4 @@ Try it today and experience a smoother file management workflow on Ubuntu!
 
 **Tags:** #Ubuntu #Nautilus #Linux #Clipboard #Productivity #GNOME #OpenSource
 
-see also [https://open](https://ubuntubase.com/software/nautilus-clipboard-extender-ultimate-clipboard-history-for-ubuntu-file-manager/)
+see also [https://ubuntubase.com/software/nautilus-clipboard-extender-ultimate-clipboard-history-for-ubuntu-file-manager/](https://ubuntubase.com/software/nautilus-clipboard-extender-ultimate-clipboard-history-for-ubuntu-file-manager/)
